@@ -33,3 +33,4 @@ nftset=/instagram.com/4#inet#fw4#vpn_domains
 nftset=/cdninstagram.com/4#inet#fw4#vpn_domains
 nftset=/igcdn-photos-e-a.akamaihd.net/4#inet#fw4#vpn_domains
 nftset=/instagramstatic.com/4#inet#fw4#vpn_domains
+nftset=/sora.com/4#inet#fw4#vpn_domains
