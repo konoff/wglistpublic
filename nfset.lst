@@ -50,4 +50,4 @@ nftset=/pbs.twimg.com/4#inet#fw4#vpn_domains
 nftset=/abs.twimg.com/4#inet#fw4#vpn_domains
 nftset=/twimg.com/4#inet#fw4#vpn_domains
 nftset=/video.twimg.com/4#inet#fw4#vpn_domains
-nftset=/aistudio.google.com/4#inet#fw4#vpn_domains
+nftset=/registry.ollama.ai/4#inet#fw4#vpn_domains
