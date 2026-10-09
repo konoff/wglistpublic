@@ -102,4 +102,4 @@ nftset=/xethub.hf.co/4#inet#fw4#vpn_domains
 nftset=/cas-server.xethub.hf.co/4#inet#fw4#vpn_domains
 nftset=/transfer.xethub.hf.co/4#inet#fw4#vpn_domains
 nftset=/cas-bridge.xethub.hf.co/4#inet#fw4#vpn_domains
-
+nftset=/workos.com/4#inet#fw4#vpn_domains
