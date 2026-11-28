@@ -1,0 +1,2 @@
+# ipset.lst: one IPv4/IPv6 address or CIDR per line, '#' starts a comment (fw4 set vpn_domains)
+78.17.78.38
